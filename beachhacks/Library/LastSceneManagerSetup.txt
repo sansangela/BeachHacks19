@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Leap Motion/Core/Examples/Capsule Hands (Desktop).unity
+  isLoaded: 1
+  isActive: 1
